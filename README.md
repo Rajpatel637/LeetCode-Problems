@@ -83,4 +83,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [1669-merge-in-between-linked-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1669-merge-in-between-linked-lists) |
 <!---LeetCode Topics End-->
