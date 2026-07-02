@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -141,9 +142,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
