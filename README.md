@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0617-merge-two-binary-trees) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0938-range-sum-of-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0938-range-sum-of-bst) |
+| [1192-critical-connections-in-a-network](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Hash Table
@@ -171,10 +172,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+## Biconnected Component
+|  |
+| ------- |
+| [1192-critical-connections-in-a-network](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1192-critical-connections-in-a-network) |
 <!---LeetCode Topics End-->
