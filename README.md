@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Breadth-First Search
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 ## Trie
 |  |
@@ -195,4 +197,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
