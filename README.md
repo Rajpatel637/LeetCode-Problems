@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Stack
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3941-password-strength) |
 ## Trie
@@ -222,5 +224,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
