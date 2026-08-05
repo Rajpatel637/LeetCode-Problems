@@ -226,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
+## Math
+|  |
+| ------- |
+| [3908-valid-digit-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3908-valid-digit-number) |
 <!---LeetCode Topics End-->
