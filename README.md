@@ -220,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
 |  |
@@ -229,5 +230,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3908-valid-digit-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3908-valid-digit-number) |
 <!---LeetCode Topics End-->
