@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3941-password-strength](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3941-password-strength) |
+| [3945-digit-frequency-score](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Two Pointers
 |  |
 | ------- |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3908-valid-digit-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3908-valid-digit-number) |
+| [3945-digit-frequency-score](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
 | ------- |
