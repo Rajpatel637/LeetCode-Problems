@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 | [3912-valid-elements-in-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3912-valid-elements-in-an-array) |
 | [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
@@ -248,4 +249,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2574-left-and-right-sum-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3903-smallest-stable-index-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
 <!---LeetCode Topics End-->
