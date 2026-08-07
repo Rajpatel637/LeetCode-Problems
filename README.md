@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [3894-traffic-signal-color](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3941-password-strength) |
@@ -237,12 +238,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3894-traffic-signal-color](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3894-traffic-signal-color](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3908-valid-digit-number) |
 | [3945-digit-frequency-score](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
