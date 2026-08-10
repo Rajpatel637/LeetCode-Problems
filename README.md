@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3913-sort-vowels-by-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## Design
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3913-sort-vowels-by-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## String
 |  |
 | ------- |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [3894-traffic-signal-color](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
+| [3913-sort-vowels-by-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3913-sort-vowels-by-frequency) |
 | [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3931-check-adjacent-digit-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3931-check-adjacent-digit-differences) |
 | [3941-password-strength](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3941-password-strength) |
