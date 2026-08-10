@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
+| [3909-compare-sums-of-bitonic-parts](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3909-compare-sums-of-bitonic-parts) |
 | [3912-valid-elements-in-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3912-valid-elements-in-an-array) |
 | [3917-count-indices-with-opposite-parity](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3917-count-indices-with-opposite-parity) |
 | [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
