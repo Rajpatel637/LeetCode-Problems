@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3870-count-commas-in-range) |
+| [3871-count-commas-in-range-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3871-count-commas-in-range-ii) |
 | [3894-traffic-signal-color](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3908-valid-digit-number) |
