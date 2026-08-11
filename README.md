@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0295-find-median-from-data-stream](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
 ## Breadth-First Search
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3856-trim-trailing-vowels](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3856-trim-trailing-vowels) |
 | [3884-first-matching-character-from-both-ends](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3884-first-matching-character-from-both-ends) |
@@ -279,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
 | [3838-weighted-word-mapping](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
 | [3842-toggle-light-bulbs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3847-find-the-score-difference-in-a-game) |
