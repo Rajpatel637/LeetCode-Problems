@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3866-first-unique-even-element) |
 | [3885-design-event-manager](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3885-design-event-manager) |
 | [3889-mirror-frequency-distance](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3889-mirror-frequency-distance) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3843-first-element-with-unique-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [3847-find-the-score-difference-in-a-game](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3847-find-the-score-difference-in-a-game) |
 | [3861-minimum-capacity-box](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3861-minimum-capacity-box) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3862-find-the-smallest-balanced-index) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3843-first-element-with-unique-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3843-first-element-with-unique-frequency) |
 | [3866-first-unique-even-element](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3866-first-unique-even-element) |
 | [3889-mirror-frequency-distance](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3889-mirror-frequency-distance) |
 | [3913-sort-vowels-by-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3913-sort-vowels-by-frequency) |
