@@ -267,11 +267,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [3827-count-monobit-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3827-count-monobit-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3827-count-monobit-integers) |
 | [3833-count-dominant-indices](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3833-count-dominant-indices) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Simulation
