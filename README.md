@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3885-design-event-manager](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3885-design-event-manager) |
 | [3895-count-digit-appearances](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 | [3899-angles-of-a-triangle](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3899-angles-of-a-triangle) |
 | [3903-smallest-stable-index-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1192-critical-connections-in-a-network](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1192-critical-connections-in-a-network) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1971-find-if-path-exists-in-graph) |
+| [3898-find-the-degree-of-each-vertex](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
