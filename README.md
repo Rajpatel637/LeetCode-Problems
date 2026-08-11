@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3894-traffic-signal-color](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3894-traffic-signal-color) |
 | [3895-count-digit-appearances](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3895-count-digit-appearances) |
 | [3908-valid-digit-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3908-valid-digit-number) |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
 ## Prefix Sum
 |  |
@@ -277,4 +278,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3885-design-event-manager](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3885-design-event-manager) |
+## Number Theory
+|  |
+| ------- |
+| [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 <!---LeetCode Topics End-->
