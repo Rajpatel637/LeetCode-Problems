@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
 | [3803-count-residue-prefixes](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3803-count-residue-prefixes) |
 | [3815-design-auction-system](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3815-design-auction-system) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
 | ------- |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3798-largest-even-number) |
