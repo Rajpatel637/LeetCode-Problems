@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0198-house-robber](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0213-house-robber-ii) |
+| [0303-range-sum-query-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0494-target-sum) |
@@ -214,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0303-range-sum-query-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [3815-design-auction-system](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3815-design-auction-system) |
 | [3885-design-event-manager](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3885-design-event-manager) |
 ## Data Stream
@@ -346,6 +348,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3862-find-the-smallest-balanced-index) |
 | [3903-smallest-stable-index-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
