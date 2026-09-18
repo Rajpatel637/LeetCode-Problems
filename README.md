@@ -247,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
