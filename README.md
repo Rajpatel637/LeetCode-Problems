@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
+| [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [3827-count-monobit-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
