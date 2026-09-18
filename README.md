@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0278-first-bad-version](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0441-arranging-coins](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0700-search-in-a-binary-search-tree) |
@@ -348,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [0441-arranging-coins](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3783-mirror-distance-of-an-integer) |
