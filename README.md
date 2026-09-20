@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3794-reverse-string-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3798-largest-even-number) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
+| [3498-reverse-degree-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
 | [3813-vowel-consonant-score](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3813-vowel-consonant-score) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
