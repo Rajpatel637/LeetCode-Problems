@@ -253,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
+| [1143-longest-common-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## String Matching
 |  |
@@ -414,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0278-first-bad-version](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0374-guess-number-higher-or-lower) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
