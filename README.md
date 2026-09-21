@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3809-best-reachable-tower](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3809-best-reachable-tower) |
 | [3833-count-dominant-indices](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3833-count-dominant-indices) |
 | [3838-weighted-word-mapping](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3838-weighted-word-mapping) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3731-find-missing-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3731-find-missing-elements) |
+| [3774-absolute-difference-between-maximum-and-minimum-k-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3774-absolute-difference-between-maximum-and-minimum-k-elements) |
 | [3842-toggle-light-bulbs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3842-toggle-light-bulbs) |
 | [3913-sort-vowels-by-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3913-sort-vowels-by-frequency) |
 ## Design
