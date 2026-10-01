@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [2469-convert-the-temperature](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2469-convert-the-temperature) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
