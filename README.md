@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1920-build-array-from-permutation](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [1512-number-of-good-pairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
 | [1143-longest-common-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2942-find-words-containing-character](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3110-score-of-a-string) |
@@ -372,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
+| [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [3827-count-monobit-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
