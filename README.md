@@ -416,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0441-arranging-coins) |
 | [1486-xor-operation-in-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [2235-add-two-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2469-convert-the-temperature) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
