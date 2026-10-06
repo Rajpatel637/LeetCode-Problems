@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1672-richest-customer-wealth](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1920-build-array-from-permutation](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -387,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1720-decode-xored-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [3827-count-monobit-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
