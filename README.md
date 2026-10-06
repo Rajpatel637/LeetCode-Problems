@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3110-score-of-a-string) |
+| [3146-permutation-difference-between-two-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3146-permutation-difference-between-two-strings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3760-maximum-substrings-with-distinct-start) |
