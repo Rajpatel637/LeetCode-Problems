@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1720-decode-xored-array) |
+| [1816-truncate-sentence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -304,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1678-goal-parser-interpretation) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
+| [1816-truncate-sentence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [2942-find-words-containing-character](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3110-score-of-a-string) |
