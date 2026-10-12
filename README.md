@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0027-remove-element) |
+| [0036-valid-sudoku](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1672-richest-customer-wealth](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
