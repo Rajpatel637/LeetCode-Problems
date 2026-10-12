@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0213-house-robber-ii) |
 | [0303-range-sum-query-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0322-coin-change](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0416-partition-equal-subset-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [0705-design-hashset](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1603-design-parking-system) |
@@ -369,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0037-sudoku-solver) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1672-richest-customer-wealth](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [3898-find-the-degree-of-each-vertex](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3898-find-the-degree-of-each-vertex) |
 ## Union-Find
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
 | [1480-running-sum-of-1d-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [3862-find-the-smallest-balanced-index](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3862-find-the-smallest-balanced-index) |
