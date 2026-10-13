@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0392-is-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1768-merge-strings-alternately](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -594,4 +598,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
+## Timsort
+|  |
+| ------- |
+| [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 <!---LeetCode Topics End-->
