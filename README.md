@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0860-lemonade-change](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 ## Array
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0706-design-hashmap) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0860-lemonade-change](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
