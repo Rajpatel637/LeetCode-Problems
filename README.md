@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -309,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0242-valid-anagram](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
@@ -632,5 +634,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
