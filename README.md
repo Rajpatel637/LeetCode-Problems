@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
