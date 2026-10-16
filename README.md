@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0678-valid-parenthesis-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0232-implement-queue-using-stacks](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0678-valid-parenthesis-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1092-shortest-common-supersequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1108-defanging-an-ip-address](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1108-defanging-an-ip-address) |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [0678-valid-parenthesis-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1092-shortest-common-supersequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
@@ -604,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Function
 |  |
