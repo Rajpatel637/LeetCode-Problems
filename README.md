@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0938-range-sum-of-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Tree
 |  |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1720-decode-xored-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [1816-truncate-sentence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [1920-build-array-from-permutation](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2574-left-and-right-sum-differences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2574-left-and-right-sum-differences) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3467-transform-array-by-parity](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
