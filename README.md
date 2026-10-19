@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1382-balance-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 ## Binary Tree
 |  |
 | ------- |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3467-transform-array-by-parity](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3467-transform-array-by-parity) |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3668-restore-finishing-order](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1920-build-array-from-permutation) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2181-merge-nodes-in-between-zeros) |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3701-compute-alternating-sum) |
 | [3775-reverse-words-with-same-vowel-count](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3775-reverse-words-with-same-vowel-count) |
@@ -567,6 +570,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 | [3815-design-auction-system](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3815-design-auction-system) |
 | [3885-design-event-manager](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3885-design-event-manager) |
 ## Number Theory
@@ -649,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0056-merge-intervals](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0056-merge-intervals) |
 | [0455-assign-cookies](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0455-assign-cookies) |
+## Segment Tree
+|  |
+| ------- |
+| [3477-fruits-into-baskets-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
