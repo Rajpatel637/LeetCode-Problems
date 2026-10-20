@@ -546,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2235-add-two-integers) |
 | [2413-smallest-even-multiple](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2469-convert-the-temperature) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2894-divisible-and-non-divisible-sums-difference) |
