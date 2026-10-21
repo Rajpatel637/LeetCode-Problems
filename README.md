@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3889-mirror-frequency-distance](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3889-mirror-frequency-distance) |
 | [3941-password-strength](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3941-password-strength) |
 | [3945-digit-frequency-score](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3921-score-validator](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3921-score-validator) |
 | [3925-concatenate-array-with-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 | [3940-limit-occurrences-in-sorted-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3940-limit-occurrences-in-sorted-array) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Stack
 |  |
 | ------- |
