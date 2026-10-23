@@ -346,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2785-sort-vowels-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3194-minimum-average-of-smallest-and-largest-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3194-minimum-average-of-smallest-and-largest-elements) |
@@ -416,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1816-truncate-sentence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1816-truncate-sentence) |
 | [2000-reverse-prefix-of-word](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
+| [2785-sort-vowels-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2785-sort-vowels-in-a-string) |
 | [2942-find-words-containing-character](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2942-find-words-containing-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3110-score-of-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3110-score-of-a-string) |
