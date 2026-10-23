@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -341,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [0912-sort-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
+| [1636-sort-array-by-increasing-frequency](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1710-maximum-units-on-a-truck) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
