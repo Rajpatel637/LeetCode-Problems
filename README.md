@@ -551,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0866-prime-palindrome](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [1486-xor-operation-in-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
 | [2235-add-two-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2235-add-two-integers) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [2413-smallest-even-multiple](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
@@ -678,4 +680,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3477-fruits-into-baskets-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3477-fruits-into-baskets-ii) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
