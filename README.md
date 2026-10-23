@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0160-intersection-of-two-linked-lists) |
+| [0328-odd-even-linked-list](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0328-odd-even-linked-list) |
 | [0705-design-hashset](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0706-design-hashmap) |
 | [1669-merge-in-between-linked-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1669-merge-in-between-linked-lists) |
