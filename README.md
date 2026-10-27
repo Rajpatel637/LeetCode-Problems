@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0705-design-hashset](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0705-design-hashset) |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0304-range-sum-query-2d-immutable) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0706-design-hashmap) |
 | [1603-design-parking-system](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1603-design-parking-system) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0771-jewels-and-stones](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0771-jewels-and-stones) |
@@ -657,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0535-encode-and-decode-tinyurl) |
 | [0705-design-hashset](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0706-design-hashmap) |
 ## Bucket Sort
