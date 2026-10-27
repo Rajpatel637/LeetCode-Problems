@@ -488,6 +488,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0132-palindrome-partitioning-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0132-palindrome-partitioning-ii) |
@@ -550,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0062-unique-paths) |
 | [0258-add-digits](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0441-arranging-coins) |
@@ -688,4 +690,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0866-prime-palindrome](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0866-prime-palindrome) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
