@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0912-sort-an-array) |
 | [0931-minimum-falling-path-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0931-minimum-falling-path-sum) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1049-last-stone-weight-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1463-cherry-pickup-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
@@ -519,6 +520,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0931-minimum-falling-path-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1049-last-stone-weight-ii) |
 | [1092-shortest-common-supersequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
 | [1463-cherry-pickup-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1463-cherry-pickup-ii) |
@@ -636,11 +638,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0518-coin-change-ii) |
+| [1049-last-stone-weight-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1049-last-stone-weight-ii) |
 ## 0-1 Knapsack
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0494-target-sum) |
+| [1049-last-stone-weight-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1049-last-stone-weight-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
