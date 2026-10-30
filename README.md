@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0881-boats-to-save-people) |
 | [1382-balance-a-binary-search-tree](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1382-balance-a-binary-search-tree) |
 | [1710-maximum-units-on-a-truck](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1710-maximum-units-on-a-truck) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Array
 |  |
 | ------- |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3908-valid-digit-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3908-valid-digit-number) |
 | [3918-sum-of-primes-between-number-and-its-reverse](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3918-sum-of-primes-between-number-and-its-reverse) |
 | [3945-digit-frequency-score](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3945-digit-frequency-score) |
+| [4000-largest-integer-with-given-digit-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/4000-largest-integer-with-given-digit-sum) |
 ## Prefix Sum
 |  |
 | ------- |
