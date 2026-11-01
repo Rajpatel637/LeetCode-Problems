@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0441-arranging-coins) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0866-prime-palindrome](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/0866-prime-palindrome) |
 | [1486-xor-operation-in-an-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1486-xor-operation-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1512-number-of-good-pairs) |
