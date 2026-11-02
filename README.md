@@ -552,6 +552,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1720-decode-xored-array](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/1720-decode-xored-array) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3827-count-monobit-integers](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3827-count-monobit-integers) |
 | [3954-sum-of-compatible-numbers-in-range-i](https://github.com/Rajpatel637/LeetCode-Problems/tree/master/3954-sum-of-compatible-numbers-in-range-i) |
 ## Enumeration
